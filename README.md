@@ -26,5 +26,5 @@ Classified letters images of hands in poses that correspond to letters in Americ
 
 **Results**:
 * Explored model using different hidden sizes, learning rates and optimizers based on accuracy for the validation set.<br>
-*The client required that the median accuracy would exceed 94% overall and better than 85% for every individual letter. The model I trained had 0.99 median accuracy, and tree letters did not meet the 85% individual accuracy.<br>
+* The client required that the median accuracy would exceed 94% overall and better than 85% for every individual letter. The model I trained had 0.99 median accuracy, and tree letters did not meet the 85% individual accuracy.<br>
 * Earned grades 25.73/30(HD).<br>
