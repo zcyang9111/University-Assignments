@@ -16,7 +16,7 @@ Classified image data to determine presence of breast cancer in patients using W
 
 **Results**:
 * Compared model using SGD, SVM and Decision Tree classifiers based on area under the curve (AUC) for the validation set.<br>
-* The best model I trained did not meet the client's requirement that the true positive rate is over 90%.<br>
+* The best model I trained had an 85% true positive rate, which did not meet the client's requirement that the true positive rate is over 90%.<br>
 * Earned grades 26.4/30(HD).<br>
 
 
