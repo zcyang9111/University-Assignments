@@ -22,7 +22,7 @@ Classified image data to determine presence of breast cancer in patients using W
 
 ## Assignment 3
 **Objective**:<br> 
-Classified letters images of hands in poses that correspond to letters in American Sign Language using CNN and DNN.<br>
+Classified images of hands in poses that correspond to letters in American Sign Language using CNN and DNN.<br>
 
 **Results**:
 * Explored model using different hidden sizes, learning rates and optimizers based on accuracy for the validation set.<br>
