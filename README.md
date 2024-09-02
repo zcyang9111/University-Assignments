@@ -1,3 +1,7 @@
 # University-Assignments
-These are my assignments of a course named Using Machine Learning Tools
+These are my assignments for a course named Using Machine Learning Tools
+
 ## Assignment 1 
+**Objective**: 
+Predicted bike rental demand in Seoul by analysing data from 2017-2018 
+**Results**:
